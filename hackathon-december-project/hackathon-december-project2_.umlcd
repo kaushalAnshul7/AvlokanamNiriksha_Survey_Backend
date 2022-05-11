@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_2pPBgNBFEeyf8dG5quTa0Q">
+  <modelElement href="hackathon-december-project2.uml#_1SLvANBFEeyf8dG5quTa0Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_2yNXUNBFEeyf8dG5quTa0Q" name="com">
+    <modelElement href="hackathon-december-project2.uml#_19HiYNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_2yNXUdBFEeyf8dG5quTa0Q" position="50.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_2yY9gNBFEeyf8dG5quTa0Q" name="org">
+    <modelElement href="hackathon-december-project2.uml#_19HiYtBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_2yY9gdBFEeyf8dG5quTa0Q" position="-115.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_2yaLoNBFEeyf8dG5quTa0Q" name="java">
+    <modelElement href="hackathon-december-project2.uml#_19IwgNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_2yaLodBFEeyf8dG5quTa0Q" position="200.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_2ybZwNBFEeyf8dG5quTa0Q" name="javax">
+    <modelElement href="hackathon-december-project2.uml#_19LMwNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_2ybZwdBFEeyf8dG5quTa0Q" position="350.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_2ycA0NBFEeyf8dG5quTa0Q" name="io">
+    <modelElement href="hackathon-december-project2.uml#_19NpBdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_2ycA0dBFEeyf8dG5quTa0Q" position="-280.0,50.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

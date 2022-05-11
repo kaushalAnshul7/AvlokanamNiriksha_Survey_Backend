@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_2rbZ4NBFEeyf8dG5quTa0Q">
+  <modelElement href="hackathon-december-project2.uml#_1-h3otBFEeyf8dG5quTa0Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_9KWlINBFEeyf8dG5quTa0Q" name="HackathonDecemberProjectApplicationTests">
+    <modelElement href="hackathon-december-project2.uml#_2CyskNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_9KXMMNBFEeyf8dG5quTa0Q" position="388.0,60.0"/>
+    <stereotypes xmi:id="_9KXMMdBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_2CzTotBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_9KXMMtBFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_2Cz6stBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_9KXMM9BFEeyf8dG5quTa0Q" label="~"/>
+    <operations xmi:id="_9KXMNNBFEeyf8dG5quTa0Q" name="contextLoads">
+      <modelElement href="hackathon-december-project2.uml#_2CzTo9BFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_9KXMNdBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2Cz6sNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_9KXMNtBFEeyf8dG5quTa0Q" label="~"/>
+      <cardinality xmi:id="_9KXMN9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

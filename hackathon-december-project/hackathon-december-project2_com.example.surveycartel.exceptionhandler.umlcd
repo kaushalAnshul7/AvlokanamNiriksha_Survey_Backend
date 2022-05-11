@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_2rPzsNBFEeyf8dG5quTa0Q">
+  <modelElement href="hackathon-december-project2.uml#_1-DWgdBFEeyf8dG5quTa0Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_7NsEINBFEeyf8dG5quTa0Q" name="UserFoundException">
+    <modelElement href="hackathon-december-project2.uml#_2CtNANBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_7NsEIdBFEeyf8dG5quTa0Q" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_7NsEItBFEeyf8dG5quTa0Q" label="+"/>
+    <attributes xmi:id="_7NsEI9BFEeyf8dG5quTa0Q" defaultValue="1L" name="serialVersionUID" staticAttribute="true">
+      <modelElement href="hackathon-december-project2.uml#_2Ypn0NBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_7NsEJNBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_7NsEJdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_7NsEJtBFEeyf8dG5quTa0Q" name="long">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#long"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_7NsEJ9BFEeyf8dG5quTa0Q" name="UserFoundException">
+      <modelElement href="hackathon-december-project2.uml#_2CvCMNBFEeyf8dG5quTa0Q"/>
+      <keywords xmi:id="_7NsEKNBFEeyf8dG5quTa0Q" keyword="create"/>
+      <visibility xmi:id="_7NsEKdBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_7NsEKtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_7NsEK9BFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2CvpQtBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_7NsELNBFEeyf8dG5quTa0Q" name="UserFoundException">
+          <modelElement href="hackathon-december-project2.uml#_2CtNANBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_7NsELdBFEeyf8dG5quTa0Q" name="UserFoundException">
+      <modelElement href="hackathon-december-project2.uml#_2CvpQ9BFEeyf8dG5quTa0Q"/>
+      <keywords xmi:id="_7NsELtBFEeyf8dG5quTa0Q" keyword="create"/>
+      <visibility xmi:id="_7NsEL9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_7NsEMNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_7NsEMdBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2CwQU9BFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_7NsEMtBFEeyf8dG5quTa0Q" name="UserFoundException">
+          <modelElement href="hackathon-december-project2.uml#_2CtNANBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_7NsEM9BFEeyf8dG5quTa0Q" name="msg">
+        <modelElement href="hackathon-december-project2.uml#_2CwQUNBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_7NsENNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_7NsENdBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_7NwVkNBFEeyf8dG5quTa0Q" name="UserNotFoundException">
+    <modelElement href="hackathon-december-project2.uml#_2Cw3YNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_7NwVkdBFEeyf8dG5quTa0Q" position="-515.0,80.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_7NwVktBFEeyf8dG5quTa0Q" label="+"/>
+    <operations xmi:id="_7NwVk9BFEeyf8dG5quTa0Q" name="UserNotFoundException">
+      <modelElement href="hackathon-december-project2.uml#_2CxecNBFEeyf8dG5quTa0Q"/>
+      <keywords xmi:id="_7NwVlNBFEeyf8dG5quTa0Q" keyword="create"/>
+      <visibility xmi:id="_7NwVldBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_7NwVltBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_7NwVl9BFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2Cxec9BFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_7NwVmNBFEeyf8dG5quTa0Q" name="UserNotFoundException">
+          <modelElement href="hackathon-december-project2.uml#_2Cw3YNBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_7NwVmdBFEeyf8dG5quTa0Q" name="UserNotFoundException">
+      <modelElement href="hackathon-december-project2.uml#_2CyFgNBFEeyf8dG5quTa0Q"/>
+      <keywords xmi:id="_7NwVmtBFEeyf8dG5quTa0Q" keyword="create"/>
+      <visibility xmi:id="_7NwVm9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_7NwVnNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_7NwVndBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2CyFhNBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_7NwVntBFEeyf8dG5quTa0Q" name="UserNotFoundException">
+          <modelElement href="hackathon-december-project2.uml#_2Cw3YNBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_7NwVn9BFEeyf8dG5quTa0Q" name="msg">
+        <modelElement href="hackathon-december-project2.uml#_2CyFgdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_7NwVoNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_7NwVodBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

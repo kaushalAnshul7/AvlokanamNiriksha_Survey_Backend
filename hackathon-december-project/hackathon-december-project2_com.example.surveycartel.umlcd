@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_2pUhENBFEeyf8dG5quTa0Q">
+  <modelElement href="hackathon-december-project2.uml#_19IJcNBFEeyf8dG5quTa0Q"/>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3EfaINBFEeyf8dG5quTa0Q" name="AvlokanamNiriksha">
+    <modelElement href="hackathon-december-project2.uml#_1_NNENBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EfaIdBFEeyf8dG5quTa0Q" position="50.0,50.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3EfaItBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_ObMNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3EfaI9BFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_QQYNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3EfaJNBFEeyf8dG5quTa0Q" label="+"/>
+    <operations xmi:id="_3EfaJdBFEeyf8dG5quTa0Q" name="main" staticOperation="true">
+      <modelElement href="hackathon-december-project2.uml#_1_PpUdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3EfaJtBFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_1_PpU9BFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3EfaJ9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3EfaKNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3EfaKdBFEeyf8dG5quTa0Q" name="args">
+        <modelElement href="hackathon-december-project2.uml#_1_PpUtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3EfaKtBFEeyf8dG5quTa0Q" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_3EfaK9BFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3EjrkNBFEeyf8dG5quTa0Q" name="Config">
+    <modelElement href="hackathon-december-project2.uml#_19J-oNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EjrkdBFEeyf8dG5quTa0Q" position="-112.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3EkSoNBFEeyf8dG5quTa0Q" name="Service">
+    <modelElement href="hackathon-december-project2.uml#_19NpBNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EkSodBFEeyf8dG5quTa0Q" position="322.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3ElgwNBFEeyf8dG5quTa0Q" name="Model">
+    <modelElement href="hackathon-december-project2.uml#_19adUNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3ElgwdBFEeyf8dG5quTa0Q" position="472.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3EnV8NBFEeyf8dG5quTa0Q" name="Repository">
+    <modelElement href="hackathon-december-project2.uml#_1917IdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EnV8dBFEeyf8dG5quTa0Q" position="-280.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3EokENBFEeyf8dG5quTa0Q" name="exceptionhandler">
+    <modelElement href="hackathon-december-project2.uml#_1-DWgdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EokEdBFEeyf8dG5quTa0Q" position="626.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:PackageVisual" xmi:id="_3EpyMNBFEeyf8dG5quTa0Q" name="Web">
+    <modelElement href="hackathon-december-project2.uml#_1-O8sNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3EpyMdBFEeyf8dG5quTa0Q" position="-442.0,72.0" size="-1.0,-1.0"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_2paAoNBFEeyf8dG5quTa0Q">
+  <modelElement href="hackathon-december-project2.uml#_19J-oNBFEeyf8dG5quTa0Q"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3Zzi0NBFEeyf8dG5quTa0Q" source="_3Z0w8NBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2ZdgINBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aW8cNBFEeyf8dG5quTa0Q" position="190.0,190.0"/>
+    <stereotypes xmi:id="_3Zzi0dBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2Zlb8NBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3Zzi0tBFEeyf8dG5quTa0Q" text=""/>
+    <sourceRole xmi:id="_3Zzi09BFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2ZdgIdBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3Zzi1NBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Zzi1dBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3Zzi1tBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="userService" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2XyFINBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3Zzi19BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Zzi2NBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3Z0J4NBFEeyf8dG5quTa0Q" sourceAnchor="382.0,0.0" targetAnchor="245.0,276.0" target="_3Z6QgNBFEeyf8dG5quTa0Q" source="_3Z0w8NBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2Zlb8dBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aW8cdBFEeyf8dG5quTa0Q" position="210.0,210.0"/>
+    <stereotypes xmi:id="_3Z0J4dBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2ZswsNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3Z0J4tBFEeyf8dG5quTa0Q" text="">
+      <visualProperties xmi:id="_30eFkNBFEeyf8dG5quTa0Q" position="-82.0,-26.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3Z0J49BFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2Zlb8tBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30c3ctBFEeyf8dG5quTa0Q" position="-18.0,-55.0"/>
+      <visibility xmi:id="_3Z0J5NBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z0J5dBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3Z0J5tBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="jwtUtil" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2XzTQNBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30eFkdBFEeyf8dG5quTa0Q" position="41.0,0.0"/>
+      <visibility xmi:id="_3Z0J59BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z0J6NBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3aDacNBFEeyf8dG5quTa0Q" source="_3aDaedBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2ZswsdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aXjgNBFEeyf8dG5quTa0Q" position="230.0,230.0"/>
+    <stereotypes xmi:id="_3aDacdBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2Zy3UNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3aDactBFEeyf8dG5quTa0Q" text=""/>
+    <sourceRole xmi:id="_3aDac9BFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2ZswstBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3aDadNBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aDaddBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3aDadtBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="env" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2X0hYNBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3aDad9BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aDaeNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3aGdwNBFEeyf8dG5quTa0Q" sourceAnchor="456.0,92.0" targetAnchor="428.0,85.0" target="_3ZxGkNBFEeyf8dG5quTa0Q" source="_3aPAoNBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2Zy3UdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aXjgdBFEeyf8dG5quTa0Q" position="250.0,250.0"/>
+    <bendpoints xmi:id="_30c3cNBFEeyf8dG5quTa0Q" sourceX="437" targetY="147"/>
+    <stereotypes xmi:id="_3aKvMdBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2Z4W4NBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3aKIINBFEeyf8dG5quTa0Q" text="">
+      <visualProperties xmi:id="_30fTsNBFEeyf8dG5quTa0Q" position="-42.0,-63.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3aKIIdBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2Zy3UtBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30esoNBFEeyf8dG5quTa0Q" position="1.0,-57.0"/>
+      <visibility xmi:id="_3aMkYdBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aMkYNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3aKvMNBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="unauthorizedHandler" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2X1IctBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30fTsdBFEeyf8dG5quTa0Q" position="2.0,0.9999999999999432"/>
+      <visibility xmi:id="_3aMkY9BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aMkYtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3aHE0NBFEeyf8dG5quTa0Q" sourceAnchor="0.0,92.0" targetAnchor="382.0,115.0" target="_3Z0w8NBFEeyf8dG5quTa0Q" source="_3aPAoNBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2Z-dgdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aYKkNBFEeyf8dG5quTa0Q" position="290.0,290.0"/>
+    <bendpoints xmi:id="_30c3cdBFEeyf8dG5quTa0Q" sourceX="-492" targetY="147"/>
+    <stereotypes xmi:id="_3aKvNtBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2aCu8NBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3aKvM9BFEeyf8dG5quTa0Q" text="">
+      <visualProperties xmi:id="_30iXANBFEeyf8dG5quTa0Q" position="2.0,-23.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_3aKvNNBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2Z-dgtBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30gh0NBFEeyf8dG5quTa0Q" position="-17.0,2.0"/>
+      <visibility xmi:id="_3aNLcdBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aNLcNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3aKvNdBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="jwtAuthenticationFilter" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2X2WktBFEeyf8dG5quTa0Q"/>
+      <visualProperties xmi:id="_30i-ENBFEeyf8dG5quTa0Q" position="1.0,51.0"/>
+      <visibility xmi:id="_3aNLc9BFEeyf8dG5quTa0Q" label="~"/>
+      <cardinality xmi:id="_3aNLctBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_3aKvMtBFEeyf8dG5quTa0Q" source="_3aPAoNBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_2Z498NBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aXjgtBFEeyf8dG5quTa0Q" position="270.0,270.0"/>
+    <stereotypes xmi:id="_3aMkaNBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2Z-dgNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <nameVisual xmi:id="_3aMkZdBFEeyf8dG5quTa0Q" text=""/>
+    <sourceRole xmi:id="_3aMkZtBFEeyf8dG5quTa0Q" aggregationKind="NONE" name="">
+      <modelElement href="hackathon-december-project2.uml#_2Z498dBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3aNygdBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aNygNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_3aMkZ9BFEeyf8dG5quTa0Q" aggregationKind="NONE" name="userService" navigable="true">
+      <modelElement href="hackathon-december-project2.uml#_2X1vgtBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3aNyg9BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aNygtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3ZvRYNBFEeyf8dG5quTa0Q" name="ImageConfiguration">
+    <modelElement href="hackathon-december-project2.uml#_1_QQYtBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3ZvRYdBFEeyf8dG5quTa0Q" position="50.0,50.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_3ZvRYtBFEeyf8dG5quTa0Q" label="+"/>
+    <operations xmi:id="_3ZvRY9BFEeyf8dG5quTa0Q" name="addResourceHandlers">
+      <modelElement href="hackathon-december-project2.uml#_2UlnMNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3ZvRZNBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+        <modelElement href="hackathon-december-project2.uml#_2UlnMtBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <stereotypes xmi:id="_3ZvRZdBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2UmOQNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3ZvRZtBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3ZvRZ9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3ZvRaNBFEeyf8dG5quTa0Q" name="registry">
+        <modelElement href="hackathon-december-project2.uml#_2UlnMdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZvRadBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZvRatBFEeyf8dG5quTa0Q" name="ResourceHandlerRegistry">
+          <modelElement href="hackathon-december-project2.uml#_2K778dBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3ZvRa9BFEeyf8dG5quTa0Q" name="exposeDirectory">
+      <modelElement href="hackathon-december-project2.uml#_2UmOQtBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3ZvRbNBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3ZvRbdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3ZvRbtBFEeyf8dG5quTa0Q" name="dirName">
+        <modelElement href="hackathon-december-project2.uml#_2Um1UNBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZvRb9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZvRcNBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3ZvRcdBFEeyf8dG5quTa0Q" name="registry">
+        <modelElement href="hackathon-december-project2.uml#_2Um1UdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZvRctBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZvRc9BFEeyf8dG5quTa0Q" name="ResourceHandlerRegistry">
+          <modelElement href="hackathon-december-project2.uml#_2K778dBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3ZxGkNBFEeyf8dG5quTa0Q" name="JwtAuthenticationEntryPoint" associationsIn="_3aGdwNBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_1_RegNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3ZxGkdBFEeyf8dG5quTa0Q" position="550.0,331.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3ZxGktBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_SFkNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3ZxGk9BFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_SsoNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3ZxGlNBFEeyf8dG5quTa0Q" label="+"/>
+    <operations xmi:id="_3ZxGldBFEeyf8dG5quTa0Q" name="commence">
+      <modelElement href="hackathon-december-project2.uml#_2UncYNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3ZxGltBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2UoDctBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3ZxGl9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3ZxGmNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3ZxGmdBFEeyf8dG5quTa0Q" name="request">
+        <modelElement href="hackathon-december-project2.uml#_2UncYdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZxGmtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZxGm9BFEeyf8dG5quTa0Q" name="HttpServletRequest">
+          <modelElement href="hackathon-december-project2.uml#_2LadEdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3ZxGnNBFEeyf8dG5quTa0Q" name="response">
+        <modelElement href="hackathon-december-project2.uml#_2UoDcNBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZxGndBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZxGntBFEeyf8dG5quTa0Q" name="HttpServletResponse">
+          <modelElement href="hackathon-december-project2.uml#_2LhKwdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3ZxGn9BFEeyf8dG5quTa0Q" name="authException">
+        <modelElement href="hackathon-december-project2.uml#_2UoDcdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3ZxGoNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3ZxGodBFEeyf8dG5quTa0Q" name="AuthenticationException">
+          <modelElement href="hackathon-december-project2.uml#_2LmDQdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3Z0w8NBFEeyf8dG5quTa0Q" name="JwtAuthenticationFilter" associationsIn="_3aHE0NBFEeyf8dG5quTa0Q" associationsOut="_3Zzi0NBFEeyf8dG5quTa0Q _3Z0J4NBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_1_TTsNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3Z0w8dBFEeyf8dG5quTa0Q" position="-789.0,301.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3Z0w8tBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_T6wNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3Z0w89BFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_VI4NBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3Z0w9NBFEeyf8dG5quTa0Q" label="+"/>
+    <attributes xmi:id="_3Z0w9dBFEeyf8dG5quTa0Q" name="userService">
+      <modelElement href="hackathon-december-project2.uml#_2XyFINBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z0w9tBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2XysMNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z0w99BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z0w-NBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3Z0w-dBFEeyf8dG5quTa0Q" name="UserService">
+        <modelElement href="hackathon-december-project2.uml#_2B_bUNBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3Z0w-tBFEeyf8dG5quTa0Q" name="jwtUtil">
+      <modelElement href="hackathon-december-project2.uml#_2XzTQNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z0w-9BFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2XzTQdBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z0w_NBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z0w_dBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3Z0w_tBFEeyf8dG5quTa0Q" name="JwtUtil">
+        <modelElement href="hackathon-december-project2.uml#_1_WXANBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3Z0w_9BFEeyf8dG5quTa0Q" name="doFilterInternal">
+      <modelElement href="hackathon-december-project2.uml#_2UpRkNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z0xANBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2Up4oNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z0xAdBFEeyf8dG5quTa0Q" label="#"/>
+      <cardinality xmi:id="_3Z0xAtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3Z0xA9BFEeyf8dG5quTa0Q" name="request">
+        <modelElement href="hackathon-december-project2.uml#_2UpRkdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z0xBNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z0xBdBFEeyf8dG5quTa0Q" name="HttpServletRequest">
+          <modelElement href="hackathon-december-project2.uml#_2LadEdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3Z0xBtBFEeyf8dG5quTa0Q" name="response">
+        <modelElement href="hackathon-december-project2.uml#_2UpRktBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z0xB9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z0xCNBFEeyf8dG5quTa0Q" name="HttpServletResponse">
+          <modelElement href="hackathon-december-project2.uml#_2LhKwdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3Z0xCdBFEeyf8dG5quTa0Q" name="filterChain">
+        <modelElement href="hackathon-december-project2.uml#_2UpRk9BFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z0xCtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z0xC9BFEeyf8dG5quTa0Q" name="FilterChain">
+          <modelElement href="hackathon-december-project2.uml#_2L1T0NBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3Z6QgNBFEeyf8dG5quTa0Q" name="JwtUtil" associationsIn="_3Z0J4NBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_1_WXANBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3Z6QgdBFEeyf8dG5quTa0Q" position="-652.0,-30.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3Z6QgtBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_W-ENBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3Z6Qg9BFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_bPgNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3Z6QhNBFEeyf8dG5quTa0Q" label="+"/>
+    <attributes xmi:id="_3Z6QhdBFEeyf8dG5quTa0Q" defaultValue="&quot;surveycartel&quot;" name="SECRET_KEY">
+      <modelElement href="hackathon-december-project2.uml#_2Xz6UdBFEeyf8dG5quTa0Q"/>
+      <visibility xmi:id="_3Z6QhtBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z6Qh9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3Z6QiNBFEeyf8dG5quTa0Q" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3Z6QidBFEeyf8dG5quTa0Q" name="extractUsername">
+      <modelElement href="hackathon-december-project2.uml#_1_XlINBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6QitBFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_1_YMMNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6Qi9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z6QjNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QjdBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_1_XlItBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6QjtBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6Qj9BFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_1_XlIdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QkNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QkdBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QktBFEeyf8dG5quTa0Q" name="extractExpiration">
+      <modelElement href="hackathon-december-project2.uml#_1_YMMdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6Qk9BFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_1_YzQNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6QlNBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z6QldBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QltBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2UqfsNBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6Ql9BFEeyf8dG5quTa0Q" name="Date">
+          <modelElement href="hackathon-december-project2.uml#_2McX0NBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6QmNBFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_1_YMMtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QmdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QmtBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6Qm9BFEeyf8dG5quTa0Q" name="extractAllClaims">
+      <modelElement href="hackathon-december-project2.uml#_1_ZaUNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6QnNBFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_1_aBYNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6QndBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z6QntBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6Qn9BFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U03wNBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6QoNBFEeyf8dG5quTa0Q" name="Claims">
+          <modelElement href="hackathon-december-project2.uml#_2M31oNBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6QodBFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_1_ZaUdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QotBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6Qo9BFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QpNBFEeyf8dG5quTa0Q" name="isTokenExpired">
+      <modelElement href="hackathon-december-project2.uml#_1_aBYdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6QpdBFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_1_aocNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6QptBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z6Qp9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QqNBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_1_aBY9BFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6QqdBFEeyf8dG5quTa0Q" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6QqtBFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_1_aBYtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6Qq9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QrNBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QrdBFEeyf8dG5quTa0Q" name="extractClaim">
+      <modelElement href="hackathon-december-project2.uml#_2UvYMdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6QrtBFEeyf8dG5quTa0Q" name="TypeParameterDeclaration">
+        <modelElement href="hackathon-december-project2.uml#_2Uv_QNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6Qr9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z6QsNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QsdBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2Uv_QdBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6QstBFEeyf8dG5quTa0Q" name="T">
+          <modelElement href="hackathon-december-project2.uml#_2UqfsdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6Qs9BFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_2UvYMtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QtNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QtdBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3Z6QttBFEeyf8dG5quTa0Q" name="claimsResolver">
+        <modelElement href="hackathon-december-project2.uml#_2UvYM9BFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6Qt9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QuNBFEeyf8dG5quTa0Q" name="Function">
+          <modelElement href="hackathon-december-project2.uml#_2MursdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QudBFEeyf8dG5quTa0Q" name="generateToken">
+      <modelElement href="hackathon-december-project2.uml#_2U03wdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6QutBFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_2U1e0dBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6Qu9BFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z6QvNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QvdBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U1e0NBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6QvtBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6Qv9BFEeyf8dG5quTa0Q" name="userDetails">
+        <modelElement href="hackathon-december-project2.uml#_2U03wtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QwNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QwdBFEeyf8dG5quTa0Q" name="UserDetails">
+          <modelElement href="hackathon-december-project2.uml#_2MKrAdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QwtBFEeyf8dG5quTa0Q" name="createToken">
+      <modelElement href="hackathon-december-project2.uml#_2U1e0tBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6Qw9BFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_2U2F4dBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6QxNBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3Z6QxdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6QxtBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U2F4NBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6Qx9BFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6QyNBFEeyf8dG5quTa0Q" name="claims">
+        <modelElement href="hackathon-december-project2.uml#_2U1e09BFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QydBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QytBFEeyf8dG5quTa0Q" name="Map">
+          <modelElement href="hackathon-december-project2.uml#_2MqaQdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3Z6Qy9BFEeyf8dG5quTa0Q" name="subject">
+        <modelElement href="hackathon-december-project2.uml#_2U1e1NBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6QzNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6QzdBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3Z6QztBFEeyf8dG5quTa0Q" name="validateToken">
+      <modelElement href="hackathon-december-project2.uml#_2U6-YdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3Z6Qz9BFEeyf8dG5quTa0Q" name="StyledElement">
+        <modelElement href="hackathon-december-project2.uml#_2U7lcdBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3Z6Q0NBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3Z6Q0dBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3Z6Q0tBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U7lcNBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3Z6Q09BFEeyf8dG5quTa0Q" name="Boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_3Z6Q1NBFEeyf8dG5quTa0Q" name="token">
+        <modelElement href="hackathon-december-project2.uml#_2U6-YtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6Q1dBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6Q1tBFEeyf8dG5quTa0Q" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_3Z6Q19BFEeyf8dG5quTa0Q" name="userDetails">
+        <modelElement href="hackathon-december-project2.uml#_2U6-Y9BFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3Z6Q2NBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3Z6Q2dBFEeyf8dG5quTa0Q" name="UserDetails">
+          <modelElement href="hackathon-december-project2.uml#_2MKrAdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3aDaedBFEeyf8dG5quTa0Q" name="MailConfiguration" associationsOut="_3aDacNBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_1_drwNBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aDaetBFEeyf8dG5quTa0Q" position="156.0,276.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3aDae9BFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_drwdBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3aDafNBFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_e54tBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3aDafdBFEeyf8dG5quTa0Q" label="+"/>
+    <attributes xmi:id="_3aDaftBFEeyf8dG5quTa0Q" name="env">
+      <modelElement href="hackathon-december-project2.uml#_2X0hYNBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aDaf9BFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2X1IcNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aDagNBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aDagdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3aDagtBFEeyf8dG5quTa0Q" name="Environment">
+        <modelElement href="hackathon-december-project2.uml#_2NVvsdBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3aDag9BFEeyf8dG5quTa0Q" name="getMailSender">
+      <modelElement href="hackathon-december-project2.uml#_1_eS0NBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aDahNBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_1_e54NBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aDahdBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aDahtBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3aDah9BFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U7lctBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3aDaiNBFEeyf8dG5quTa0Q" name="JavaMailSender">
+          <modelElement href="hackathon-december-project2.uml#_2NaoMdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3aPAoNBFEeyf8dG5quTa0Q" name="SecurityConfiguration" associationsOut="_3aGdwNBFEeyf8dG5quTa0Q _3aHE0NBFEeyf8dG5quTa0Q _3aKvMtBFEeyf8dG5quTa0Q">
+    <modelElement href="hackathon-december-project2.uml#_1_fg8NBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aPAodBFEeyf8dG5quTa0Q" position="85.0,471.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3aPAotBFEeyf8dG5quTa0Q" name="LegacyStyledElement">
+      <modelElement href="hackathon-december-project2.uml#_1_gIANBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <stereotypes xmi:id="_3aPAo9BFEeyf8dG5quTa0Q" name="Annotations">
+      <modelElement href="hackathon-december-project2.uml#_1_ikQNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3aPApNBFEeyf8dG5quTa0Q" label="+"/>
+    <attributes xmi:id="_3aPApdBFEeyf8dG5quTa0Q" name="unauthorizedHandler">
+      <modelElement href="hackathon-december-project2.uml#_2X1IctBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAptBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2X1vgNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAp9BFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aPAqNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3aPAqdBFEeyf8dG5quTa0Q" name="JwtAuthenticationEntryPoint">
+        <modelElement href="hackathon-december-project2.uml#_1_RegNBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3aPAqtBFEeyf8dG5quTa0Q" name="userService">
+      <modelElement href="hackathon-december-project2.uml#_2X1vgtBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAq9BFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2X2WkNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPArNBFEeyf8dG5quTa0Q" label="-"/>
+      <cardinality xmi:id="_3aPArdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3aPArtBFEeyf8dG5quTa0Q" name="UserService">
+        <modelElement href="hackathon-december-project2.uml#_2B_bUNBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_3aPAr9BFEeyf8dG5quTa0Q" name="jwtAuthenticationFilter">
+      <modelElement href="hackathon-december-project2.uml#_2X2WktBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAsNBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2X29oNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAsdBFEeyf8dG5quTa0Q" label="~"/>
+      <cardinality xmi:id="_3aPAstBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <type xmi:id="_3aPAs9BFEeyf8dG5quTa0Q" name="JwtAuthenticationFilter">
+        <modelElement href="hackathon-december-project2.uml#_1_TTsNBFEeyf8dG5quTa0Q"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_3aPAtNBFEeyf8dG5quTa0Q" name="passwordEncoder">
+      <modelElement href="hackathon-december-project2.uml#_1_gvENBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAtdBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_1_gvEdBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAttBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aPAt9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3aPAuNBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U8MgNBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3aPAudBFEeyf8dG5quTa0Q" name="PasswordEncoder">
+          <modelElement href="hackathon-december-project2.uml#_2OZfodBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3aPAutBFEeyf8dG5quTa0Q" name="authenticationManagerBean">
+      <modelElement href="hackathon-december-project2.uml#_1_hWINBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAu9BFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_1_h9MNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAvNBFEeyf8dG5quTa0Q" label="+"/>
+      <cardinality xmi:id="_3aPAvdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_3aPAvtBFEeyf8dG5quTa0Q">
+        <modelElement href="hackathon-december-project2.uml#_2U8MgdBFEeyf8dG5quTa0Q"/>
+        <type xmi:id="_3aPAv9BFEeyf8dG5quTa0Q" name="AuthenticationManager">
+          <modelElement href="hackathon-december-project2.uml#_2Nrt8dBFEeyf8dG5quTa0Q"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_3aPAwNBFEeyf8dG5quTa0Q" name="configure">
+      <modelElement href="hackathon-december-project2.uml#_2VBFAdBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAwdBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2VBsENBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAwtBFEeyf8dG5quTa0Q" label="#"/>
+      <cardinality xmi:id="_3aPAw9BFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3aPAxNBFEeyf8dG5quTa0Q" name="auth">
+        <modelElement href="hackathon-december-project2.uml#_2VBFAtBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3aPAxdBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3aPAxtBFEeyf8dG5quTa0Q" name="AuthenticationManagerBuilder">
+          <modelElement href="hackathon-december-project2.uml#_2NwmcdBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_3aPAx9BFEeyf8dG5quTa0Q" name="configure">
+      <modelElement href="hackathon-december-project2.uml#_2VCTINBFEeyf8dG5quTa0Q"/>
+      <stereotypes xmi:id="_3aPAyNBFEeyf8dG5quTa0Q" name="Annotations">
+        <modelElement href="hackathon-december-project2.uml#_2VC6MNBFEeyf8dG5quTa0Q"/>
+      </stereotypes>
+      <visibility xmi:id="_3aPAydBFEeyf8dG5quTa0Q" label="#"/>
+      <cardinality xmi:id="_3aPAytBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+      <parameters xmi:id="_3aPAy9BFEeyf8dG5quTa0Q" name="http">
+        <modelElement href="hackathon-december-project2.uml#_2VCTIdBFEeyf8dG5quTa0Q"/>
+        <cardinality xmi:id="_3aPAzNBFEeyf8dG5quTa0Q" label="1" max="1" min="1"/>
+        <type xmi:id="_3aPAzdBFEeyf8dG5quTa0Q" name="HttpSecurity">
+          <modelElement href="hackathon-december-project2.uml#_2N8ModBFEeyf8dG5quTa0Q"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_3aVHQNBFEeyf8dG5quTa0Q" name="T">
+    <modelElement href="hackathon-december-project2.uml#_2UqfsdBFEeyf8dG5quTa0Q"/>
+    <visualProperties xmi:id="_3aVHQdBFEeyf8dG5quTa0Q" position="45.0,350.0" size="-1.0,-1.0"/>
+    <stereotypes xmi:id="_3aVHQtBFEeyf8dG5quTa0Q" name="Reference">
+      <modelElement href="hackathon-december-project2.uml#_2UvYMNBFEeyf8dG5quTa0Q"/>
+    </stereotypes>
+    <visibility xmi:id="_3aVHQ9BFEeyf8dG5quTa0Q" label="+"/>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
